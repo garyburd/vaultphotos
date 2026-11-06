@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "runtime.version": "Lua 5.1",
+  "runtime.pathStrict": true,
+  "diagnostics.globals": [
+    "import",
+    "_PLUGIN",
+    "LOC",
+    "WIN_ENV",
+    "MAC_ENV"
+  ],
+  "workspace.checkThirdParty": false,
+  "workspace.library": [],
+  "diagnostics.disable": [
+    "lowercase-global"
+  ]
+}

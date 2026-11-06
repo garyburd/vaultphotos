@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Lightroom SDK
+LrC_15/
+
+# Written by luac without -p
+luac.out
+
+# Editor backups
+*.swp
+*~
